@@ -1,9 +1,11 @@
 # Panda-list--Dataframes.py
-data vault manager
+Data vault manager
 
 ## Project description:
 
-* I have been deployed as a data vault manager. As part of my assignment, I was required to create a Pandas data list. Using Python pandas i created a list of Dataframes for the   following products:
+* I have been deployed as a data vault manager. As part of my assignment, I was required to create a Pandas data list.
+Using Python pandas i created a list of Dataframes for the   following products:
+
 
 1. Chips: Simba, Lays
 2. Cooldrinks: Coke, Fanta
